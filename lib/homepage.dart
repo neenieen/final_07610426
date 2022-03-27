@@ -39,7 +39,7 @@ class _HomePageState extends State<Homepage> {
             decoration: BoxDecoration(
               gradient: RadialGradient(
                 colors: [Colors.amberAccent,Colors.white],
-                radius: 1.0;
+                radius: 1.0,
               )
             ),
             child: Column(
